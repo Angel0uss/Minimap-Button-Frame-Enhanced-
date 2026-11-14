@@ -1,4 +1,4 @@
-﻿Minimap Button Frame Enhanced v3.0 Readme.txt
+﻿Minimap Button Frame Enhanced Readme.txt
 
 This is an enhanced fork of "Minimap Button Frame" originally created by Bachlott.
 All credit for the original addon's design and functionality belongs to Bachlott.
