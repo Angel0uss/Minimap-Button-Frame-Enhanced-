@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Minimap Button Frame Enhanced Skin Pack
+## Notes: Skin Pack for Minimap Button Frame Enhanced.
+## Author: Bachlott
+## Version: 3.1
+## Dependencies: Minimap_Button_Frame_Enhanced
+## X-Category: Interface Enhancements
+## X-Date: 2009-6-7
+
+Skins.lua
